@@ -9,7 +9,9 @@ I'am Faris an enthusiast learner of Software Quality Assurance.
   * Automation Testing : UI/Web, API, Mobile
 
 ### How to reach me 📫
-
+<p align="left">
+<a href="https://linkedin.com/in/muhammad faris 'imaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad faris 'imaduddin" height="30" width="40" /></a>
+</p>
 
 <!--
 **Muhammadfaris/Muhammadfaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
