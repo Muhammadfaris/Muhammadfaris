@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Muhammad Faris 'Imaduddin
+
+I'am Faris an enthusiast learner of Software Quality Assurance.
+
+### Skills ⚡
+
+  * Languange : Java
+  * Tools : Katalon Studio, Selenium, Android Studio, Appium, Postman, JMeter, Jira
+  * Automation Testing : UI/Web, API, Mobile
+
+### How to reach me 📫
+
 
 <!--
 **Muhammadfaris/Muhammadfaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
