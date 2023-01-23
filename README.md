@@ -10,7 +10,7 @@ I'am Faris an enthusiast learner of Software Quality Assurance.
 
 ### How to reach me 📫
 <p align="left">
-<a href="https://linkedin.com/in/muhammad faris 'imaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad faris 'imaduddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-faris-imaduddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad faris 'imaduddin" height="30" width="40" /></a>
 </p>
 
 <!--
