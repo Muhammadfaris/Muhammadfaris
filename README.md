@@ -4,7 +4,7 @@ I'am Faris an enthusiast learner of Software Quality Assurance.
 
 ### Skills ⚡
 
-  * Languange : Java
+  * Language : Java
   * Tools : Katalon Studio, Selenium, Android Studio, Appium, Postman, JMeter, Jira
   * Automation Testing : UI/Web, API, Mobile
 
